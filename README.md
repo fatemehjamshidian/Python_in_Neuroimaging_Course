@@ -1,6 +1,8 @@
 # fMRI_Processing_Course
  
-Welcome to the fMRI Analysis Course in Python! This repository contains materials for learning how to analyze functional Magnetic Resonance Imaging (fMRI) data using Python. The course covers essential concepts in neuroimaging, data preprocessing, statistical analysis, and visualization techniques, utilizing various Python libraries such as NiBabel, Numpy, Scipy, and Nilearn.
+Welcome to the fMRI Analysis Course in Python! This repository contains materials for learning how to analyze functional Magnetic Resonance Imaging (fMRI) data using Python.
+
+The course covers essential concepts in neuroimaging, data preprocessing, statistical analysis, and visualization techniques, utilizing various Python libraries such as **NiBabel**, **Numpy**, **Scipy**, and **Nilearn**.
 
 
 ### *Course Structure*
