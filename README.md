@@ -6,17 +6,17 @@ Welcome to the fMRI Analysis Course in Python! This repository contains material
 ### Course Structure
 The course is divided into modules, each focusing on different aspects of fMRI analysis:
 
-Introduction to fMRI and Neuroimaging ==> will be updated 
+* Introduction to fMRI and Neuroimaging ==> will be updated 
 
-Data Acquisition and Preprocessing ==> will be updated 
+* Data Acquisition and Preprocessing ==> will be updated 
 
-Statistical Analysis and GLM
+* Statistical Analysis and GLM  ==> will be updated 
 
-Functional Connectivity
+* Functional Connectivity  ==> will be updated 
 
-Machine Learning in fMRI
+* Machine Learning in fMRI ==> will be updated 
 
-Advanced Topics and Future Directions
+* Advanced Topics and Future Directions ==> will be updated 
 
 Each module includes lecture notes, Jupyter notebooks with code examples, datasets, and assignments.
 
