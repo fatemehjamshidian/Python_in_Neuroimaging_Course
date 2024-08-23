@@ -1,4 +1,4 @@
-# fMRI Processing Course 2024
+# Python In Neuroimaging Course 2024
  
 Welcome to the fMRI Analysis Course in Python! This repository contains materials for learning how to analyze functional Magnetic Resonance Imaging (fMRI) data using Python.
 
